@@ -8,10 +8,10 @@ import os
 from keep_alive import keep_alive
 keep_alive()
 # insert your Telegram bot tokSasen here
-bot = telebot.TeleBot('7238502739:AAHUs-v5Cswjoi3wcfB_OjLTg')
+bot = telebot.TeleBot('7384515272:AAGJbJ9yq4Z1Hwbg-CR30wNTvyoS1UjTHuY')
 
 # Admin user IDs
-admin_id = ["5599402910"]
+admin_id = ["1956306828"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
@@ -328,14 +328,6 @@ Vip :
 > After Attack Limit : 2 Min
 -> Concurrents Attack : 300
 
-Pr-ice List:
-per match--> 30 Rs
-per hours--> 50 Rs
-Day--------> 250 Rs
-Week-------> 900 Rs
-Month------> 1600 Rs
-LifeTimes--> 2000 Rs
-By STORM BOT
 '''
     bot.reply_to(message, response)
 
